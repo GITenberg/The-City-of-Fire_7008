@@ -1,0 +1,31 @@
+_repo: The-City-of-Fire_7008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Livingston, Grace
+    - Lutz, Grace Livingston Hill
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: Modern girls can have morals too. That is the message written into the
+  character of Lynn Severn, daughter of a small-town minister. Lynn is puzzled by
+  the changes that have come between her and her childhood playmate, Mark Carter,
+  as they grow older in this coming-of-age romance.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Religious fiction'
+- GITenberg
+title: The City of Fire
+url: http://www.gutenberg.org/ebooks/7008
