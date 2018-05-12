@@ -1,5 +1,8 @@
 _repo: The-City-of-Fire_7008
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hill, Grace Livingston
@@ -15,6 +18,8 @@ description: Modern girls can have morals too. That is the message written into 
   character of Lynn Severn, daughter of a small-town minister. Lynn is puzzled by
   the changes that have come between her and her childhood playmate, Mark Carter,
   as they grow older in this coming-of-age romance.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7008#The-City-of-Fire
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
